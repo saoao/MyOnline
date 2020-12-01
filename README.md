@@ -23,6 +23,10 @@
 
 源码：https://github.com/Qucs/qucs
 
+https://github.com/Qucs/qucsator
+
+
+
 相关研究：
 
 https://ra3xdh.github.io/
@@ -35,15 +39,21 @@ https://github.com/andresmmera/RF-Designer
 
 
 
-
-
-
-
 ## 开源SPICE电路模拟器
 
-官网：http://wrcad.com/
+1. 官网：http://wrcad.com/    源码：https://github.com/wrcad/xictools
 
-源码：https://github.com/wrcad/xictools
+2. 官网：http://ngspice.sourceforge.net/   源码：https://git.code.sf.net/p/ngspice/ngspice
+
+3. 官网：https://xyce.sandia.gov/   源码：https://github.com/Xyce/Xyce
+
+   
+
+   
+
+
+
+
 
 
 
